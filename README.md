@@ -1,6 +1,12 @@
 # StyleGAN-TrumpPortraits
 ThisPresidentDoesNotExist: StyleGAN generation using Tensorflow.
 
+
+<p align="center">
+  <img src="https://github.com/EXJUSTICE/StyleGAN-TrumpPortraits/blob/master/fakes011185.png" >
+</p>
+
+
 Based upon the work of Karras at the NVIDIA team  & AK9250's stylegan-art repositories,
 We've used styleGAN's to generate artistic representations of the 45th president using a Kaggle dataset through transfer learning.
 
