@@ -13,4 +13,6 @@ We've used SstyleGAN's to generate artistic representations of the 45th presiden
 Originally run on GoogleColaboratory with GPU enabled  for 1 tick (approx. 6 hours) of transfer learning. Improvements in realism could be attained with further training.
 
 
-Full tutorial here: https://medium.com/gradientcrescent/this-president-does-not-exist-generating-artistic-portraits-of-donald-trump-using-stylegan-a97a17902dd4
+### Main tutorial
+
+https://medium.com/gradientcrescent/this-president-does-not-exist-generating-artistic-portraits-of-donald-trump-using-stylegan-a97a17902dd4
